@@ -62,11 +62,6 @@ You can test your implementation using CS50's check50 tool:
 check50 ai50/projects/2024/x/nim
 ```
 
-And check your code style with style50:
-```
-style50 nim.py
-```
-
 ## Project Structure
 - `nim.py`: Contains the main implementation of the Nim game and AI
 - `play.py`: Interface for playing against the trained AI
